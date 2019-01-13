@@ -69,3 +69,5 @@ DerivedDataCache/*
 *.swp
 *.swo
 .ctrlp_cache/
+.vs/BuildingEscape/v15/ipch/AutoPCH/fdd1fba59ae12ae3/OPENDOOR2.ipch
+.vs/BuildingEscape/v15/ipch/AutoPCH/35654b12ee876aa0/OPENDOOR2.ipch
